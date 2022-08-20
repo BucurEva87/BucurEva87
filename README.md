@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**BucurEva87/BucurEva87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Projects I am currently working on:
+  - KLowRise (a mobile application designed to help users manage their calories intake over a custom period of time)
+  - Cusine Advisor (a mobile application that suggests users various dishes based upon the ingredients at their disposal)
+  - Chatter (a chatting platform with multiple chatrooms that allows users to communicate among themselves. It comes along with a mobile app)
 
-Here are some ideas to get you started:
+### 🌱 Subjects that I'm interested in and learning right now:
+  - React
+  - Redux
+  - Ruby
+  - Rails
+  - Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 You can reach me via:
+  - GitHub: [@BucurEva87](https://github.com/BucurEva87)
+  - Twitter: [@BucurEva](https://twitter.com/BucurEva)
+  - LinkedIn: [Eva-Lavinia Bucur](https://www.linkedin.com/in/eva-lavinia-bucur-89626b1b7)
+
+### ♀️ Pronouns:
+  - I use ___She/Her___ pronouns
