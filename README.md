@@ -4,6 +4,7 @@
   - KLowRise (a mobile application designed to help users manage their calories intake over a custom period of time)
   - Cusine Advisor (a mobile application that suggests users various dishes based upon the ingredients at their disposal)
   - Chatter (a chatting platform with multiple chatrooms that allows users to communicate among themselves. It comes along with a mobile app)
+  - AmeRummy (an american variant of a game of rummy with a single room for multiplayer friendly games)
 
 ### 🌱 Subjects that I'm interested in and learning right now:
   - React
